@@ -1,4 +1,5 @@
 ![https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif](...)
+<br>
 ![https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif](...)
 
 # Introdução
