@@ -1,6 +1,6 @@
 ![https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif](...)
 <br>
-![https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif](...)
+![https://media.giphy.com/media/cPfjwUZtwArxyHVqjz/giphy.gif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/40aa0064-a87f-4781-8f9d-9d125c7fa20b/download.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200810%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200810T195346Z&X-Amz-Expires=86400&X-Amz-Signature=8ecd6d37642d0134a94a7a33d8ceaee60f3d40b286b171498f82d0eccae553bb&X-Amz-SignedHeaders=host)
 
 # Introdução
 
